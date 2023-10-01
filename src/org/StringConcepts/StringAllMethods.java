@@ -104,7 +104,9 @@ public class StringAllMethods {
 		//15. Split method
 		String[] splt = s.split("a");
 		for (String str : splt) {
-			System.out.println(str);			
+			System.out.println(str);
+			
+		int a[] = new int[25];
 		}	
 		
 	}
